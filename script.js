@@ -12,7 +12,7 @@ const videos = [
     },
     {
         title: 'Yêu đương khó quá thì chạy về khóc với anh - Erik •Cover by Ngô Nam•',
-        thumbnail: `https://i.ytimg.com/an_webp/aPxvFyWyTqA/mqdefault_6s.webp?du=3000&sqp=CKDG_rQG&rs=AOn4CLCJOq5RdsQeYx84Q3vDHdJ_tTXnEg`,
+        thumbnail: `https://images.alphacoders.com/797/thumb-1920-797894.jpg`,
         url: `https://www.youtube.com/embed/aPxvFyWyTqA?si=qr2g6a8nwM5gaRPX`
     },
     {
